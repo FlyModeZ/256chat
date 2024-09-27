@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tfschat",
+  "name": "256chat",
+  "description": "Extends maximum chat message length to 256 via using a command.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Kalman98", "FlyModeZ"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
